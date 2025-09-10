@@ -1,0 +1,39 @@
+.meus-favoritos {
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.meus-favoritos h1 {
+    margin-bottom: 14px;
+}
+
+.meus-favoritos span {
+    font-size: 18px;
+}
+
+.meus-favoritos ul {
+    width: 720px;
+}
+
+.meus-favoritos ul li {
+    justify-content: space-between;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 14px;
+}
+
+.meus-favoritos div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.meus-favoritos div a {
+    text-decoration: none;
+    color: #116feb;
+    margin-right: 14px;
+}
